@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|B|a|.|.|
+|B|a|a|n|
 |-|-|-|-|
 |1|2|3|4|
 
@@ -21,3 +21,4 @@ res4: nee
 req5: b
 res5: ja
 req6: n
+req6: ja! geleficiteerd!
